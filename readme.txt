@@ -26,7 +26,7 @@ small trend line chart for each series. View our Terms of Use at http://research
 Not at this time, but this feature may be available in a later release.
 
 == Screenshots ==
-1. screenshot.png
+1. Shows what the widget will look like in your sidebar
 
 == Changelog ==
 
