@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== FRED At a Glance ===
 Contributers: JKnoll FRB STL
 Tags: sidebar, widget, FRED, economics, data
 Stable tag: 1.0
@@ -9,7 +9,7 @@ A widget showcasing popular economic data series from the Federal Reserve Bank o
 
 == Description ==
 
-The FRED widget (http://research.stlousfed.org/fred2/) was created to allow you to show the six of the most popular economic data series from
+The FRED widget (http://research.stlouisfed.org/fred2/) was created to allow you to show the six of the most popular economic data series from
 the FRED database in the sidebar of your blog. The widget includes the FRED logo, a link to the webpage for each series, the latest value for each series, and a 
 small trend line chart for each series. View our Terms of Use at http://research.stlouisfed.org/fred-addin/legal.html
 
@@ -24,6 +24,9 @@ small trend line chart for each series. View our Terms of Use at http://research
 = Can I pick which data series show in the widget? =
 
 Not at this time, but this feature may be available in a later release.
+
+== Screenshots ==
+1. screenshot.png
 
 == Changelog ==
 
