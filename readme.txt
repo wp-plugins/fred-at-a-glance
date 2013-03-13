@@ -1,6 +1,7 @@
-=== Plugin Name ===
+=== FRED At a Glance ===
 Contributers: JKnoll FRB STL
 Tags: sidebar, widget, FRED, economics, data
+Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
